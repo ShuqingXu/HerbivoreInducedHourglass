@@ -1,0 +1,2 @@
+# HerbivoreInducedHourglass
+Herbivory-induced defences in plants, known to be mediated by herbivore-specific elicitors (HAE) and frequently found in herbivores’ oral secretions (OS), are robust, specific and evolve rapidly. Here we show that the HAE-induced defence signaling cascades in Nicotiana attenuata display an evolutionary hourglass, which reflects age-dependent modulations of the induced defence signalling cascade that may have facilitates robustness and evolvability of the defences they elicit in plants.
